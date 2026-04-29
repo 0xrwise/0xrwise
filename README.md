@@ -103,6 +103,54 @@
 
 ---
 
+### `// INTELLIGENCE GRID — ACTIVE OPERATIONS`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xrwise&bg_color=000000&color=00ff41&line=00ff41&point=ff0040&area=true&area_color=00ff41&border_color=00ff41&hide_border=false&custom_title=OPERATIVE%20ACTIVITY%20%2F%2F%20SIGNAL%20TRACE" />
+
+</div>
+
+---
+
+### `// EXPOSED ASSETS — PUBLIC REPOSITORIES`
+
+<div align="center">
+
+<a href="https://github.com/0xrwise?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20OPERATIONS-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0xrwise&repo=0xrwise&bg_color=000000&title_color=00ff41&text_color=00ff41&border_color=00ff41&icon_color=00ff41)](https://github.com/0xrwise/0xrwise)
+
+</div>
+
+> **`// FIELD NOTE`** — All active operations are catalogued at [github.com/0xrwise](https://github.com/0xrwise?tab=repositories). Repositories are classified by operational relevance. Some remain dark by design.
+
+---
+
+### `// SNAKE PROTOCOL — CONTRIBUTION TRACE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xrwise/0xrwise/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xrwise/0xrwise/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/0xrwise/0xrwise/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+> **`// FIELD NOTE`** — Snake animation requires a GitHub Actions workflow. See setup instructions below.
+
+---
+
 ### `// CONTACT PROTOCOL`
 
 > Unsecured channels are not used. Monitored channels are not trusted. Cold contact earns a cold response.
@@ -118,8 +166,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" />
-
-<br>
 
 <sub>`// the network remembers. the node persists. — i never left.`</sub>
 
