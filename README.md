@@ -147,7 +147,7 @@
 
 </div>
 
-> **`// FIELD NOTE`** — Snake animation requires a GitHub Actions workflow. See setup instructions below.
+> **`// FIELD NOTE`** — The cycle will never end
 
 ---
 
