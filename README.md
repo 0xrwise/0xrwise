@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=INITIATING+SECURE+CONNECTION...;OPERATOR+IDENTITY%3A+0XRWISE;CLEARANCE+LEVEL%3A+TOP+SECRET;WELCOME+TO+THE+MAINFRAME." alt="Boot Sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=INITIATING+SECURE+CONNECTION...;OPERATOR+IDENTITY%3A+0XRWISE;CLEARANCE+LEVEL%3A+TOP+SECRET;%22i+never+left.%22" alt="Boot Sequence" />
 
 </div>
 
@@ -12,7 +12,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/CLEARANCE-ULTRAVIOLET-ff0040?style=flat-square&labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/THREAT%20LEVEL-ELEVATED-ffaa00?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/DOCTRINE-COLLECTIVE%20INTELLIGENCE-00aaff?style=flat-square&labelColor=0D1117" />
 
 </div>
 
@@ -26,7 +26,23 @@
 >
 > **DESIGNATION** — Principal Software Architect & Security Operative
 >
-> **CURRENT DIRECTIVE** — Engineering Zero-Trust Clandestine Networks. All data encrypted client-side before any server contact. The server sees only ciphertext. No exceptions. No compromise.
+> **DIRECTIVE** — Building Zero-Trust architectures where the server earns nothing — it receives only ciphertext, never trust.
+>
+> **BELIEF** — Intelligence isn't a solo act. The sharpest minds are networked ones. I build systems that think collectively, stay dark individually.
+>
+> **MOTTO** — *"i never left."*
+
+---
+
+### `// OPERATIONAL PHILOSOPHY`
+
+> The lone hacker is a myth.
+> Real power is distributed — nodes that share signal, mask noise, and outlast any single point of failure.
+> I don't just write code. I architect collective systems: networks that see further, remember longer, and disappear cleaner.
+>
+> `Knowledge shared → leverage multiplied.`
+> `Trust minimized → surface reduced.`
+> `Presence persistent → "i never left."`
 
 ---
 
@@ -52,11 +68,11 @@
 
 ### `// FIELD CAPABILITIES`
 
-- ◈ **OSINT Reconnaissance** — Location pattern analysis & digital footprint correlation across open-source vectors.
-- ◈ **Android OS Exploitation** — Kernel-level hardening, ROM compilation & custom module injection.
-- ◈ **Intelligence Extraction** — AI-driven OCR pipeline with noise-resilient multi-format document parsing.
-- ◈ **Intrusion Detection** — Honeypot architecture with real-time alert relay via encrypted channels.
-- ◈ **Zero-Trust Architecture** — Client-side encryption design: data sovereignty before transmission.
+- ◈ **OSINT Reconnaissance** — I read the open web like a dossier. Location patterns, digital footprints, exposed signals — all correlated, none ignored.
+- ◈ **Android OS Exploitation** — Root access isn't the goal. Understanding the system deeper than its designers intended — that is.
+- ◈ **Intelligence Extraction** — AI-driven OCR pipelines that pull structure from chaos. Raw images in, clean data out.
+- ◈ **Intrusion Detection** — Honeypots with real-time alerting. If something touches the wire, I know within seconds.
+- ◈ **Collective Intelligence Systems** — The most dangerous network isn't a single expert. It's a distributed mesh of shared knowledge, moving as one.
 
 ---
 
@@ -64,9 +80,9 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=0xrwise&show_icons=true&bg_color=0D1117&title_color=00ff41&text_color=00ff41&border_color=00ff41&icon_color=00ff41&include_all_commits=true&count_private=true&hide_border=false" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=0xrwise&show_icons=true&bg_color=0D1117&title_color=00ff41&text_color=00ff41&border_color=00ff41&icon_color=00ff41&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xrwise&layout=compact&bg_color=0D1117&title_color=00ff41&text_color=00ff41&border_color=00ff41&hide_border=false" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xrwise&layout=compact&bg_color=0D1117&title_color=00ff41&text_color=00ff41&border_color=00ff41" />
 
 <br><br>
 
@@ -78,21 +94,21 @@
 
 ### `// CONTACT PROTOCOL`
 
-> All unsecured channels are monitored. Use verified vectors only.
+> Unsecured channels are not used. Monitored channels are not trusted.
 >
-> **GITHUB** — [github.com/0xrwise](https://github.com/0xrwise) `// PRIMARY`
+> **GITHUB** — [github.com/0xrwise](https://github.com/0xrwise) `// PRIMARY VECTOR`
 >
 > **IDENTITY** — Muhammad Rafi A. `// VERIFIED`
 >
-> **OTHER** — `[REDACTED — CLEARANCE REQUIRED]`
+> **OTHER** — `[REDACTED — ACCESS DENIED]`
 
 ---
 
 <div align="center">
 
-<sub>`SESSION LOGGED // ALL TRAFFIC ENCRYPTED // STAY DARK`</sub>
+<sub>`// the network remembers. the node persists. i never left.`</sub>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=0xrwise&color=00ff41&style=flat-square&label=OPERATIVES+TRACKED" />
 
