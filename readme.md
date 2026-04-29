@@ -1,17 +1,17 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║   EYES ONLY — CLEARANCE LEVEL ULTRAVIOLET                    ║
-║   UNAUTHORIZED REPRODUCTION IS A FEDERAL OFFENSE            ║
-╚══════════════════════════════════════════════════════════════╝
--->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CLASSIFICATION: TOP SECRET // EYES ONLY // CLEARANCE: VIOLET  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```
-█████████████████████████████████████████████████████████████████
-█─▄▄▄▄█▄─██─▄█─▄▄▄▄█─▄─▄─█▄─▄▄─█▄─▀█▀─▄███─▄▄▄─█▄─▄▄─█─▄▄▄─█
-█▄▄▄▄─██─██─██▄▄▄▄─███─████─▄█▀██─█▄█─█████─███▀██─▄█▀█─███▀█
-▀▄▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▄▄▀▀▄▄▄▀▀▄▄▄▄▄▀▄▄▄▀▄▄▄▀▀▀▀▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀
+╔══════════════════════════════════════════════════════════════════╗
+║  [!!!] UNAUTHORIZED ACCESS DETECTED                              ║
+║  [SYS] INITIATING COUNTER-MEASURES...                           ║
+║  [SYS] TRACING ORIGIN..... ████████████████ 100%                ║
+║  [SYS] IDENTITY VERIFIED.                                        ║
+║  [OK ] CONNECTION ESTABLISHED. WELCOME, OPERATIVE.              ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -20,189 +20,141 @@
 
 <div align="center">
 
-```
-[SYS] INITIATING SECURE BOOT SEQUENCE...
-[SYS] LOADING KERNEL MODULES.................... OK
-[SYS] MOUNTING ENCRYPTED VOLUMES............... OK
-[SYS] ESTABLISHING SECURE TUNNEL............... OK
-[SYS] SCANNING FOR INTRUSIONS.................
-[!!!] UNAUTHORIZED ACCESS DETECTED
-[!!!] LOGGING IP ADDRESS.......................
-[!!!] TRACING GEOLOCATION......................
-[SYS] ............ JUST KIDDING. WELCOME.
-[SYS] IDENTITY CONFIRMED. DOSSIER UNLOCKED.
-```
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=OPERATOR%3A+0xrwise;CODENAME%3A+Muhammad+Rafi+A.;STATUS%3A+ACTIVE+%2F%2F+IN+THE+FIELD;CLEARANCE%3A+ULTRAVIOLET" alt="Typing SVG" />
+</h1>
 
 </div>
 
 ---
 
-## `> CLASSIFIED DOSSIER // FILE: 0xrwise`
+## `📁 CLASSIFIED DOSSIER // FILE: 0xrwise`
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  CLASSIFICATION  : ██████ // TOP SECRET                      │
-│  DOSSIER NO.     : 0x722669736500                            │
-│  DATE COMPILED   : [REDACTED]                                │
-│  COMPILED BY     : DIRECTORATE OF CYBER OPERATIONS          │
-│  STATUS          : ██ ACTIVE FIELD OPERATIVE ██             │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│  DOSSIER NO.    : 0x00722669736500                               │
+│  OPERATOR       : Muhammad Rafi A.                               │
+│  CODENAME       : 0xrwise                                        │
+│  DESIGNATION    : Principal Architect // Full-Stack Operative    │
+│  JURISDICTION   : Cyberspace — All Sectors, All Domains          │
+│  THREAT LEVEL   : ████████░░  ELEVATED                          │
+│  STATUS         : ██ ACTIVE // MISSION IN PROGRESS ██           │
+└──────────────────────────────────────────────────────────────────┘
 ```
-
-> **CODENAME :** `0xrwise`  
-> **TRUE NAME :** Muhammad Rafi A.  
-> **DESIGNATION :** Principal Architect // Full-Stack Operative  
-> **JURISDICTION :** Cyberspace — All Sectors  
-> **THREAT LEVEL :** ████████░░ `ELEVATED`
 
 ---
 
-## `> CURRENT OPERATION STATUS`
+## `⚡ CURRENT OPERATIONS`
 
 ```diff
-+ OPERATION: ZERO-TRUST CITADEL
-+ STATUS   : ACTIVE // PHASE 2 OF 4
-+ OBJECTIVE : Incubating Zero-Trust Client-Side Encryption architecture.
-+             All data encrypted at rest and in transit before leaving
-+             the client — the server sees only ciphertext. No exceptions.
-!
-! SECONDARY OP: GHOST WEB
-! STATUS      : CLASSIFIED // NEED-TO-KNOW BASIS ONLY
-! OBJECTIVE   : Development of a covert military-grade web platform.
-!               Architecture details withheld pending clearance review.
-```
++ [OP-01] ZERO-TRUST CITADEL — STATUS: ACTIVE // PHASE 2
++   Incubating Zero-Trust Client-Side Encryption architecture.
++   All data encrypted on-device before server transmission.
++   The server sees only ciphertext. Always. No exceptions.
 
-> **CURRENT DIRECTIVES:**
-> ```
-> [01] Architect encryption pipelines — WebCrypto AES-GCM, zero server trust
-> [02] Build honeypot intrusion detection with real-time Telegram alerts
-> [03] Exploit OSINT vectors for location intelligence analysis
-> [04] Harden client-side surfaces against adversarial inputs
-> ```
+! [OP-02] GHOST PLATFORM — STATUS: CLASSIFIED
+!   High-performance military-grade web platform.
+!   Stack: Next.js 14 App Router. Architecture: Need-to-know only.
+!   Details withheld pending senior clearance review.
+```
 
 ---
 
-## `> THE ARSENAL // WEAPONS MANIFEST`
+## `🔫 THE ARSENAL // WEAPONS MANIFEST`
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║          FIELD EQUIPMENT — AUTHORIZED INVENTORY              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
 ### ◈ PRIMARY WEAPONS SYSTEM
 
-| DESIGNATION | CLASSIFICATION | STATUS |
-|---|---|---|
-| `Next.js 14` *(App Router)* | Rapid Deployment Framework | `■■■■■ OPERATIONAL` |
-| `TypeScript` *(Strict Mode)* | Logic Hardening Layer | `■■■■■ OPERATIONAL` |
-| `WebCrypto API` *(AES-GCM)* | On-Device Encryption Core | `■■■■■ OPERATIONAL` |
-| `Firebase Auth + Firestore` | Identity & Secure Data Relay | `■■■■░ ACTIVE` |
-| `Zustand` | State Command & Control | `■■■■■ OPERATIONAL` |
+<p>
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/TypeScript_Strict-0D1117?style=for-the-badge&logo=typescript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/WebCrypto_AES--GCM-0D1117?style=for-the-badge&logo=webassembly&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Firebase_Auth-0D1117?style=for-the-badge&logo=firebase&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Firestore-0D1117?style=for-the-badge&logo=firebase&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Zustand-0D1117?style=for-the-badge&logo=react&logoColor=00FF41" />
+</p>
 
-### ◈ SUPPORT & INTELLIGENCE APPARATUS
+### ◈ SUPPORT SYSTEMS
 
-```
-[OSINT MODULE]
-  └── Open-Source Intelligence: Location Pattern Analysis
-  └── Digital Footprint Mapping & Correlation
-  └── Multi-source Signal Aggregation
-
-[SYSTEM MODIFICATION]
-  └── Custom Android OS: Kernel-level hardening
-  └── Build system override & ROM compilation
-  └── Permission model reengineering
-
-[AI EXTRACTION ENGINE]
-  └── AI-driven OCR: Structured data extraction from raw imagery
-  └── Document intelligence pipeline
-  └── Noise-resilient multi-format parsing
-```
-
-### ◈ SECONDARY FIELD TOOLS
-
-```bash
-# Verified operational — no further authentication required
-$ inventory --list-secondary
-
-  vanilla_js     [stealth, no dependencies, zero footprint]
-  astro_js       [static site rapid deployment]
-  supabase       [postgres + RLS + TOTP MFA]
-  cloudflare     [edge deployment, DDoS resilience]
-  python         [automation, data extraction pipelines]
-  bash           [field ops scripting, system hardening]
-  git            [version control, covert ops hygiene]
-```
-
----
-
-## `> FIELD TELEMETRY // REAL-TIME STATS`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xrwise&show_icons=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=ff0040&border_color=00ff41&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xrwise&layout=compact&bg_color=000000&title_color=00ff41&text_color=00ff41&border_color=00ff41&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=0xrwise&theme=matrix&hide_border=false&border=00FF41&background=000000&ring=00FF41&fire=FF0040&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&stroke=00FF41)
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Astro.js-0D1117?style=for-the-badge&logo=astro&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41" />
+</p>
 
 </div>
 
 ---
 
-## `> OPERATIONAL DOCTRINE`
+## `🛰️ FIELD CAPABILITIES`
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                              │
-│   "The best security isn't a wall they can't climb.         │
-│    It's a door they don't know exists."                      │
-│                                                              │
-│                           — 0xrwise, field notes            │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
-```
+╔══════════════════════════════════════════════════════════════════╗
+║               SPECIALIST INTELLIGENCE MODULES                    ║
+╚══════════════════════════════════════════════════════════════════╝
 
-> **PHILOSOPHY:**
-> ```
-> ZERO TRUST   // Verify everything. Assume breach.
-> LEAST PRIV   // Access only what mission requires.
-> ENCRYPT FIRST // Data leaves the client as ciphertext. Always.
-> OPEN SOURCE  // The best cover is transparency.
-> ```
+  [MODULE-01] OSINT // OPEN SOURCE INTELLIGENCE
+    └── Location pattern analysis & digital footprint correlation
+    └── Multi-source signal aggregation & entity resolution
+    └── Passive reconnaissance without target awareness
+
+  [MODULE-02] SYSTEM MODIFICATION // ANDROID OS
+    └── Kernel-level hardening & ROM compilation
+    └── Permission model reengineering from ground up
+    └── Build system override & custom module injection
+
+  [MODULE-03] AI-DRIVEN OCR EXTRACTION
+    └── Structured data extraction from raw unprocessed imagery
+    └── Noise-resilient multi-format document intelligence
+    └── Automated pipeline: scan → parse → classify → export
+```
 
 ---
 
-## `> CONTACT PROTOCOL`
+## `📡 SYSTEM TELEMETRY // LIVE FEED`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xrwise&show_icons=true&bg_color=0D1117&title_color=00ff41&text_color=00ff41&border_color=00ff41&icon_color=00ff41&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xrwise&layout=compact&bg_color=0D1117&title_color=00ff41&text_color=00ff41&border_color=00ff41" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=0xrwise&theme=matrix&hide_border=false&border=00FF41&background=0D1117&ring=00FF41&fire=FF0040&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" />
+
+</div>
+
+---
+
+## `📻 CONTACT PROTOCOL`
 
 ```
-[!!!] UNSECURED CHANNELS ARE MONITORED
-[SYS] USE ENCRYPTED COMMUNICATIONS ONLY
+[!!!] ALL UNSECURED CHANNELS ARE ACTIVELY MONITORED
+[SYS] VERIFIED COMMUNICATION VECTORS ONLY:
 
-  SIGNAL   : Unavailable — operational security
-  GITHUB   : github.com/0xrwise          [PRIMARY]
-  DARKNET  : [REDACTED — clearance required]
+  ► GITHUB   : github.com/0xrwise          [SECURE // PRIMARY]
+  ► IDENTITY : Muhammad Rafi A.            [VERIFIED]
+  ► OTHER    : [REDACTED — PENDING CLEARANCE]
 ```
-
-> ⚠️ **NOTICE:** This dossier is protected under Executive Order **0x00FF41**.  
-> Unauthorized access will be logged, analyzed, and added to your permanent file.  
-> Have a nice day. 🖥️
 
 ---
 
 <div align="center">
 
 ```
-█▀▀ █▀▀ █▀█ █▀▀ ▀█▀   █▀▀ █   ██████
-▀▀█ █▀▀ █   █▀▀  █    █   █   ██████
-▀▀▀ ▀▀▀ ▀   ▀   ▀▀▀   ▀▀▀ ▀▀▀ ██████
-
-   [SYS] SESSION TERMINATED
-   [SYS] ALL LOGS ENCRYPTED AND PURGED
-   [SYS] TUNNEL CLOSED
-   [SYS] GOODBYE, OPERATIVE.
+═══════════════════════════════════════════════════════════
+  [SYS] SESSION DURATION LOGGED
+  [SYS] ALL ACTIVITY ENCRYPTED AND ARCHIVED
+  [SYS] TUNNEL COLLAPSING IN 3... 2... 1...
+  [SYS] GOODBYE, OPERATIVE. STAY DARK.
+═══════════════════════════════════════════════════════════
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=0xrwise&color=00ff41&style=flat-square&label=OPERATIVES+TRACKED)
+<img src="https://komarev.com/ghpvc/?username=0xrwise&color=00ff41&style=flat-square&label=OPERATIVES+WHO+BREACHED+THIS+FILE" />
 
 </div>
