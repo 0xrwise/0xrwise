@@ -1,8 +1,8 @@
-<h1 align="center">Hi, saya Muhammad Rafi Akbar! 👋</h1>
+<h1 align="center">Muhammad Rafi Akbar</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Mahasiswa+Hukum+%7C+Researcher;Pengamat+Kehidupan+di+Dunia+Nyata+%26+Maya"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Mahasiswa+Hukum+%7C+Researcher;Kajian+Hukum%2C+Teknologi%2C+dan+Kebijakan"
     alt="Typing SVG"
   />
 </p>
@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Mahasiswa_Hukum-2196F3?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Role-Researcher-4CAF50?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-Tech_%26_Society-FF9800?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Fokus-Tech_%26_Society-FF9800?style=for-the-badge" alt="Focus" />
 </p>
 
 <br>
@@ -18,12 +18,12 @@
 <p align="center">
   <img
     src="https://github.com/0xrwise.png?size=400"
-    width="240"
+    width="220"
     alt="Foto Profil"
   />
 </p>
 
-<h3 align="center">INFO PROFIL</h3>
+<h3 align="center">Profil</h3>
 
 <p align="center">
   <strong>Nama:</strong> Muhammad Rafi Akbar (0xrwise)<br>
@@ -33,33 +33,33 @@
 
 ---
 
-### 🧠 Tentang Saya
+### Tentang
 
-Researcher amatir yang gemar mengamati berbagai aspek kehidupan untuk mencari pola di balik rutinitas manusia dan sistem yang mengaturnya.
+Mengamati berbagai aspek kehidupan untuk memahami pola di balik rutinitas manusia dan sistem yang membentuknya.
 
-### 🌀 Filosofi
+### Pendekatan
 
-Berusaha keluar dari **"Ouroboros circle"** siklus monoton yang terus berulang dari ujung ke pangkal. untuk menemukan perspektif, makna, dan pengalaman baru di luar batas kebiasaan (freedom).
-
----
-
-### 🔍 Fokus Eksplorasi & Riset
-
-⚖️ **Hukum & Keadilan**  
-Mengkaji regulasi, keadilan, dan penerapannya secara nyata di masyarakat.
-
-💻 **Teknologi & Kebijakan**  
-Mengeksplorasi persinggungan antara perkembangan teknologi modern dengan tatanan sosial.
-
-📈 **Ekonomi & Politik**  
-Menganalisis dinamika sistem yang membentuk struktur kehidupan kita sehari-hari.
-
-🌍 **Filosofi Kehidupan**  
-Mengamati pola perilaku, kebiasaan manusia, dan hal-hal fundamental di sekitar kita.
+Berusaha keluar dari siklus rutinitas yang berulang, untuk menemukan perspektif dan pengalaman baru di luar batas kebiasaan.
 
 ---
 
-### 📊 Jejak Eksplorasi GitHub
+### Fokus Riset
+
+**Hukum & Keadilan**
+Mengkaji regulasi dan penerapannya di masyarakat.
+
+**Teknologi & Kebijakan**
+Mengeksplorasi persinggungan antara perkembangan teknologi dan tatanan sosial.
+
+**Ekonomi & Politik**
+Menganalisis dinamika sistem yang membentuk struktur kehidupan sehari-hari.
+
+**Filosofi Kehidupan**
+Mengamati pola perilaku dan kebiasaan manusia.
+
+---
+
+### Aktivitas GitHub
 
 <p align="center">
   <picture>
@@ -81,9 +81,9 @@ Mengamati pola perilaku, kebiasaan manusia, dan hal-hal fundamental di sekitar k
 
 ---
 
-### 📫 Mari Berdiskusi
+### Kontak
 
-Saya terbuka untuk bertukar pikiran mengenai hukum, teknologi, maupun sekadar berdiskusi santai tentang kehidupan.
+Terbuka untuk diskusi seputar hukum, teknologi, atau topik lain yang relevan.
 
 <p align="center">
   <a href="https://github.com/0xrwise">
@@ -95,10 +95,6 @@ Saya terbuka untuk bertukar pikiran mengenai hukum, teknologi, maupun sekadar be
 </p>
 
 <br>
-
-<p align="center">
-  <i>"Terus mengamati, terus belajar, dan jangan takut untuk memutus siklus."</i>
-</p>
 
 <p align="center">
   <img
