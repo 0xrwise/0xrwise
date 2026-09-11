@@ -1,9 +1,17 @@
+<p align="center">
+  <img src="assets/avatar.png" width="120" alt="0xrwise avatar" />
+</p>
+
 <h1 align="center">0xrwise</h1>
 <p align="center"><i>~/muhammad-rafi-akbar</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-thinking_out_loud-1a1a1a?style=flat-square&labelColor=000000&color=00ffaa" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/focus-hukum_%7C_ekonomi_%7C_politik-1a1a1a?style=flat-square&labelColor=000000&color=f5a623" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/loop-breaking_the_ouroboros-1a1a1a?style=flat-square&labelColor=000000&color=00ffaa" />
 </p>
 
@@ -23,21 +31,23 @@ guest@0xrwise:~$ cat research.log
 ```
 
 ```
-[log] hukum       -> menelusuri celah, logika, dan keadilan di balik teks pasal
-[log] ekonomi     -> mencoba paham kenapa yang rasional jarang menang
-[log] politik     -> membaca kekuasaan sebagai bahasa, bukan sekadar berita
-[log] kehidupan   -> mencatat pergulatan yang tidak selalu punya jawaban rapi
+[log] hukum       -> celah, logika, dan keadilan di balik teks pasal
+[log] ekonomi     -> kenapa yang rasional jarang menang
+[log] politik     -> kekuasaan sebagai bahasa, bukan sekadar berita
+[log] kehidupan   -> pergulatan yang tidak selalu punya jawaban rapi
 ```
 
 ```bash
 guest@0xrwise:~$ cat manifesto.md
 ```
 
-> Sebagian besar hidup terasa seperti lingkaran ular yang menelan ekornya sendiri —
-> ouroboros. Rutinitas yang mengulang, pertanyaan yang mengulang, ketakutan yang mengulang.
+> Sebagian besar hidup terasa seperti lingkaran ular yang menelan ekornya
+> sendiri — ouroboros. Rutinitas yang mengulang, pertanyaan yang mengulang,
+> ketakutan yang mengulang.
 >
-> Repo ini adalah catatan dari usaha memutus lingkaran itu: mencari makna di tempat
-> yang tidak selalu terang, dan kebebasan yang tidak selalu nyaman.
+> Repo ini adalah catatan dari usaha memutus lingkaran itu: mencari makna
+> di tempat yang tidak selalu terang, dan kebebasan yang tidak selalu
+> nyaman.
 
 ```bash
 guest@0xrwise:~$ ls -la ./saat-ini
