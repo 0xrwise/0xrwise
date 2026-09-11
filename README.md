@@ -69,8 +69,8 @@ guest@0xrwise:~$ cat connect.txt
 ```
 
 ```
-tulisan   : [tautan blog/tulisan kamu]
-kontak    : [tautan kontak/sosial kamu]
+tulisan   : [0xrwise.my.id]
+kontak    : [t.me/0xrwise]
 ```
 
 <p align="center"><sub>// still compiling a life, no errors expected — only iterations //</sub></p>
