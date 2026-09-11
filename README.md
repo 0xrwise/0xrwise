@@ -17,29 +17,29 @@
 
 <br>
 
-\`\`\`bash
+```bash
 guest@0xrwise:~$ whoami
-\`\`\`
+```
 
-\`\`\`
+```
 Muhammad Rafi Akbar, alias 0xrwise.
 Menulis untuk berpikir, berpikir untuk keluar.
-\`\`\`
+```
 
-\`\`\`bash
+```bash
 guest@0xrwise:~$ cat research.log
-\`\`\`
+```
 
-\`\`\`
+```
 [log] hukum       -> celah, logika, dan keadilan di balik teks pasal
 [log] ekonomi     -> kenapa yang rasional jarang menang
 [log] politik     -> kekuasaan sebagai bahasa, bukan sekadar berita
 [log] kehidupan   -> pergulatan yang tidak selalu punya jawaban rapi
-\`\`\`
+```
 
-\`\`\`bash
+```bash
 guest@0xrwise:~$ cat manifesto.md
-\`\`\`
+```
 
 <p align="center">
   <img src="assets/ouroboros.svg" width="70" alt="ouroboros" />
@@ -53,24 +53,24 @@ guest@0xrwise:~$ cat manifesto.md
 > di tempat yang tidak selalu terang, dan kebebasan yang tidak selalu
 > nyaman.
 
-\`\`\`bash
+```bash
 guest@0xrwise:~$ ls -la ./saat-ini
-\`\`\`
+```
 
-\`\`\`
+```
 drwxr-xr-x  belajar hukum sambil bekerja
 drwxr-xr-x  menulis riset kecil-kecilan soal hukum, ekonomi, politik
 drwxr-xr-x  eksplorasi legal-tech & AI untuk riset hukum
 -rw-r--r--  mencoba jujur di setiap tulisan
-\`\`\`
+```
 
-\`\`\`bash
+```bash
 guest@0xrwise:~$ cat connect.txt
-\`\`\`
+```
 
-\`\`\`
-personal blog   : [0xrwise.my.id]
-kontak          : [t.me/0xrwise]
-\`\`\`
+```
+tulisan   : [tautan blog/tulisan kamu]
+kontak    : [tautan kontak/sosial kamu]
+```
 
 <p align="center"><sub>// still compiling a life, no errors expected — only iterations //</sub></p>
