@@ -28,18 +28,18 @@
 <p align="center">
   <strong>Nama:</strong> Muhammad Rafi Akbar (0xrwise)<br>
   <strong>Pendidikan:</strong> Ilmu Hukum, Universitas Terbuka<br>
-  <strong>Peran:</strong> Researcher & Pengamat Kehidupan
+  <strong>Peran:</strong> Researcher
 </p>
 
 ---
 
 ### 🧠 Tentang Saya
 
-Saya bukan seorang penulis, melainkan seorang researcher yang gemar mengamati berbagai aspek kehidupan—mencari pola di balik rutinitas manusia dan sistem yang mengaturnya.
+Researcher amatir yang gemar mengamati berbagai aspek kehidupan untuk mencari pola di balik rutinitas manusia dan sistem yang mengaturnya.
 
 ### 🌀 Filosofi
 
-Berusaha perlahan keluar dari **"Ouroboros circle"**—siklus monoton yang terus berulang dari ujung ke pangkal—untuk menemukan perspektif, makna, dan pengalaman baru di luar batas kebiasaan.
+Berusaha keluar dari **"Ouroboros circle"** siklus monoton yang terus berulang dari ujung ke pangkal. untuk menemukan perspektif, makna, dan pengalaman baru di luar batas kebiasaan (freedom).
 
 ---
 
@@ -61,7 +61,7 @@ Mengamati pola perilaku, kebiasaan manusia, dan hal-hal fundamental di sekitar k
 
 ### 🛠️ Minat & Area Studi
 
-Meskipun berakar pada ilmu hukum, saya menaruh minat pada persilangan berbagai disiplin ilmu. Beberapa bidang yang sering saya pelajari:
+Meskipun berakar pada ilmu hukum, saya menaruh minat pada pengetahuan lain. Beberapa bidang yang sering saya minat dan pelajari:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Legal_Research-1572B6?style=flat-square&logo=minutemailer&logoColor=white" alt="Legal Research" />
