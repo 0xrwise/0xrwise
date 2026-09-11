@@ -1,10 +1,6 @@
-<h1 align="center">Muhammad Rafi Akbar</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Mahasiswa+Hukum+%7C+Researcher;Kajian+Hukum%2C+Teknologi%2C+dan+Kebijakan"
-    alt="Typing SVG"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:2196F3&height=200&section=header&text=0xrwise&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Researcher%20%7C%20Law%20%26%20Tech&descAlignY=60&descSize=18" />
 </p>
 
 <p align="center">
@@ -33,13 +29,24 @@
 
 ---
 
+### whoami
+
+```bash
+$ whoami
+0xrwise — Mahasiswa Hukum & Researcher
+
+$ focus --list
+- Hukum & Keadilan
+- Teknologi & Kebijakan
+- Ekonomi & Politik
+- Filosofi Kehidupan
+```
+
+---
+
 ### Tentang
 
-Mengamati berbagai aspek kehidupan untuk memahami pola di balik rutinitas manusia dan sistem yang membentuknya.
-
-### Pendekatan
-
-Berusaha keluar dari siklus rutinitas yang berulang, untuk menemukan perspektif dan pengalaman baru di luar batas kebiasaan.
+Mengamati berbagai aspek kehidupan untuk memahami pola di balik rutinitas manusia dan sistem yang membentuknya. Berusaha keluar dari siklus rutinitas yang berulang, untuk menemukan perspektif dan pengalaman baru di luar batas kebiasaan.
 
 ---
 
@@ -102,3 +109,4 @@ Terbuka untuk diskusi seputar hukum, teknologi, atau topik lain yang relevan.
     alt="Profile Views"
   />
 </p>
+```
