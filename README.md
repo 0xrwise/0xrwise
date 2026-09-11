@@ -59,19 +59,6 @@ Mengamati pola perilaku, kebiasaan manusia, dan hal-hal fundamental di sekitar k
 
 ---
 
-### 🛠️ Minat & Area Studi
-
-Meskipun berakar pada ilmu hukum, saya menaruh minat pada pengetahuan lain. Beberapa bidang yang sering saya minat dan pelajari:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Legal_Research-1572B6?style=flat-square&logo=minutemailer&logoColor=white" alt="Legal Research" />
-  <img src="https://img.shields.io/badge/Public_Policy-007ACC?style=flat-square&logo=civicrm&logoColor=white" alt="Public Policy" />
-  <img src="https://img.shields.io/badge/Tech_Analysis-323330?style=flat-square&logo=kalilinux&logoColor=white" alt="Tech Analysis" />
-  <img src="https://img.shields.io/badge/Open_Source-4CAF50?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
-</p>
-
----
-
 ### 📊 Jejak Eksplorasi GitHub
 
 <p align="center">
