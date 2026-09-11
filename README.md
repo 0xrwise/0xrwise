@@ -1,112 +1,62 @@
+<h1 align="center">0xrwise</h1>
+<p align="center"><i>~/muhammad-rafi-akbar</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:2196F3&height=200&section=header&text=0xrwise&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Researcher%20%7C%20Law%20%26%20Tech&descAlignY=60&descSize=18" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Mahasiswa_Hukum-2196F3?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Role-Researcher-4CAF50?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/badge/Fokus-Tech_%26_Society-FF9800?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/status-thinking_out_loud-1a1a1a?style=flat-square&labelColor=000000&color=00ffaa" />
+  <img src="https://img.shields.io/badge/focus-hukum_%7C_ekonomi_%7C_politik-1a1a1a?style=flat-square&labelColor=000000&color=f5a623" />
+  <img src="https://img.shields.io/badge/loop-breaking_the_ouroboros-1a1a1a?style=flat-square&labelColor=000000&color=00ffaa" />
 </p>
 
 <br>
-
-<p align="center">
-  <img
-    src="https://github.com/0xrwise.png?size=400"
-    width="220"
-    alt="Foto Profil"
-  />
-</p>
-
-<h3 align="center">Profil</h3>
-
-<p align="center">
-  <strong>Nama:</strong> Muhammad Rafi Akbar (0xrwise)<br>
-  <strong>Pendidikan:</strong> Ilmu Hukum, Universitas Terbuka<br>
-  <strong>Peran:</strong> Researcher
-</p>
-
----
-
-### whoami
 
 ```bash
-$ whoami
-0xrwise — Mahasiswa Hukum & Researcher
-
-$ focus --list
-- Hukum & Keadilan
-- Teknologi & Kebijakan
-- Ekonomi & Politik
-- Filosofi Kehidupan
+guest@0xrwise:~$ whoami
 ```
 
----
-
-### Tentang
-
-Mengamati berbagai aspek kehidupan untuk memahami pola di balik rutinitas manusia dan sistem yang membentuknya. Berusaha keluar dari siklus rutinitas yang berulang, untuk menemukan perspektif dan pengalaman baru di luar batas kebiasaan.
-
----
-
-### Fokus Riset
-
-**Hukum & Keadilan**
-Mengkaji regulasi dan penerapannya di masyarakat.
-
-**Teknologi & Kebijakan**
-Mengeksplorasi persinggungan antara perkembangan teknologi dan tatanan sosial.
-
-**Ekonomi & Politik**
-Menganalisis dinamika sistem yang membentuk struktur kehidupan sehari-hari.
-
-**Filosofi Kehidupan**
-Mengamati pola perilaku dan kebiasaan manusia.
-
----
-
-### Aktivitas GitHub
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/0xrwise/0xrwise/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/0xrwise/0xrwise/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/0xrwise/0xrwise/output/github-contribution-grid-snake.svg"
-      alt="Contribution Snake"
-      width="100%"
-    />
-  </picture>
-</p>
-
----
-
-### Kontak
-
-Terbuka untuk diskusi seputar hukum, teknologi, atau topik lain yang relevan.
-
-<p align="center">
-  <a href="https://github.com/0xrwise">
-    <img
-      src="https://img.shields.io/badge/GitHub-0xrwise-181717?style=for-the-badge&logo=github"
-      alt="GitHub"
-    />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=0xrwise&color=2196F3&style=flat-square&label=Kunjungan+Profil"
-    alt="Profile Views"
-  />
-</p>
 ```
+Muhammad Rafi Akbar, alias 0xrwise.
+Menulis untuk berpikir, berpikir untuk keluar.
+```
+
+```bash
+guest@0xrwise:~$ cat research.log
+```
+
+```
+[log] hukum       -> menelusuri celah, logika, dan keadilan di balik teks pasal
+[log] ekonomi     -> mencoba paham kenapa yang rasional jarang menang
+[log] politik     -> membaca kekuasaan sebagai bahasa, bukan sekadar berita
+[log] kehidupan   -> mencatat pergulatan yang tidak selalu punya jawaban rapi
+```
+
+```bash
+guest@0xrwise:~$ cat manifesto.md
+```
+
+> Sebagian besar hidup terasa seperti lingkaran ular yang menelan ekornya sendiri —
+> ouroboros. Rutinitas yang mengulang, pertanyaan yang mengulang, ketakutan yang mengulang.
+>
+> Repo ini adalah catatan dari usaha memutus lingkaran itu: mencari makna di tempat
+> yang tidak selalu terang, dan kebebasan yang tidak selalu nyaman.
+
+```bash
+guest@0xrwise:~$ ls -la ./saat-ini
+```
+
+```
+drwxr-xr-x  belajar hukum sambil bekerja
+drwxr-xr-x  menulis riset kecil-kecilan soal hukum, ekonomi, politik
+drwxr-xr-x  eksplorasi legal-tech & AI untuk riset hukum
+-rw-r--r--  mencoba jujur di setiap tulisan
+```
+
+```bash
+guest@0xrwise:~$ cat connect.txt
+```
+
+```
+tulisan   : [tautan blog/tulisan kamu]
+kontak    : [tautan kontak/sosial kamu]
+```
+
+<p align="center"><sub>// still compiling a life, no errors expected — only iterations //</sub></p>
